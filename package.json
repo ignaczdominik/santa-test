@@ -1,0 +1,21 @@
+{
+  "name": "1206-node",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "vite": "^5.0.6",
+    "vite-plugin-progress": "^0.0.7"
+  },
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
